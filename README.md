@@ -12,9 +12,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)    
 
 <h2>:computer: LENGUAJES</h2>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=7">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=10">
   </a>
 </p>
 
