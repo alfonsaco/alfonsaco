@@ -51,4 +51,4 @@
 <hr>
 
 <h2 align="center">:trophy: TROFEOS</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=onestar&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh&no-bg=false" />
