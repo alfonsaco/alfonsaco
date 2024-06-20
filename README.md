@@ -20,9 +20,9 @@
 <br><br>
 
 <h2 align="center">:minidisc: LOGROS</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
-<br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="ovi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alfonsaco&show_icons=true&locale=en&theme=synthwave" alt="ovi" width="410" />
+<br><br><br><br><br><br>
 
 <h2 align="center">:trophy: TROFEOS</h2>
 <p align="center">
