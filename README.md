@@ -11,15 +11,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)    
 
-<h2>:computer: LENGUAJES</h2>
+<h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=10">
   </a>
 </p>
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=7)](https://skillicons.dev)
 
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
@@ -52,17 +50,5 @@
 
 <hr>
 
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
-
-
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 17/04/2021
-
-
-
-
-
+<h2 align="center">:trophy: TROFEOS</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=onestar&no-bg=true" />
