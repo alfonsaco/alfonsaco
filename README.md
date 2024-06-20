@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
 
 <h2 align="center">:computer: LENGUAJES</h2>
