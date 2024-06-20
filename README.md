@@ -29,6 +29,6 @@
 <hr>
 
 <h2 align="center">:trophy: TROFEOS</h2>
-<p align="center>
+<p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh&no-bg=false" />  
 </p>
