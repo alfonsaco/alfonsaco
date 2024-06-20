@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=10">
   </a>
 </p>
-<br>
 
 <h2 align="center">:minidisc: LOGROS</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="ovi" />
