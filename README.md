@@ -2,9 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alfonso </h1>
 <h3 align="center">Programador | Desarrollo de Aplicaciones Multiplataforma </h3>
 
-<p align="center>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)  
 
 
 <p align="center">
@@ -14,7 +12,6 @@
   <br>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
