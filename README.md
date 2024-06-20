@@ -2,9 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alfonso </h1>
 <h3 align="center">Programador | Desarrollo de Aplicaciones Multiplataforma </h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)  
-
-
 <p align="center">
   <em>
     Apasionado de la programación y el diseño
@@ -12,18 +9,18 @@
   <br>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)    
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
+<h2>:computer: LENGUAJES</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=7">
+  </a>
+</p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
+<!--
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=7)](https://skillicons.dev)
+
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
