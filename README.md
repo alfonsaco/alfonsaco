@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alfonso </h1>
 <h3 align="center">Programador | Desarrollo de Aplicaciones Multiplataforma </h3>
 
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge"/>
 </p>   
 
 <h2 align="center">:computer: LENGUAJES</h2>
