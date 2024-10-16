@@ -35,9 +35,3 @@
 <img src="https://wakatime.com/share/@alfonsaco/45920ff5-102f-4c99-98bf-66020c1985e2.svg" height= 300></img>
  <img src="https://wakatime.com/share/@alfonsaco/58cd2496-6b0d-426d-bc34-add12de917ad.svg" height= 300></img>
 </p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/master/profile-3d-contrib/profile-night-rainbow.svg" alt="graficas">
-<!--SNAKE-->
-   <img src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
