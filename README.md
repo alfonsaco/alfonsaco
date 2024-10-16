@@ -15,7 +15,7 @@
 <h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=10">
+    <img src="https://skillicons.dev/icons?i=js,html,css,codepen,java,androidstudio,vscode,eclipse,mysql,ps,pr,ai&theme=dark&perline=10">
   </a>
 </p>
 
