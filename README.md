@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/alfonsaco/joseluisgs/master/profile-3d-contrib/profile-night-rainbow.svg" alt="graficas">
+<img src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/master/profile-3d-contrib/profile-night-rainbow.svg" alt="graficas">
 <!--SNAKE-->
-   <img src="https://raw.githubusercontent.com/alfonsaco/joseluisgs/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
