@@ -32,4 +32,4 @@
 </p>
 
 <br><br><br>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/55vdbx8rnpruowvq1er2262h4)
+<img width="900" align="center" src="https://github.com/alfonsaco/alfonsaco/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
