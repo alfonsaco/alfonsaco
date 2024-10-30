@@ -30,3 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alfonsaco&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
 </p>
+
+<br><br><br>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/55vdbx8rnpruowvq1er2262h4)
