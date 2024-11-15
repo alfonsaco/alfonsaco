@@ -30,5 +30,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alfonsaco&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   <img src="https://streak-stats.demolab.com/?user=alfonsaco" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=alfonsaco)](https://git.io/streak-stats)
 </p>
