@@ -15,7 +15,7 @@
 <h2 align="center">🚀 PROYECTOS DESTACADOS</h2>
 <ul>
   <li><a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
-  <li><a href="https://alfonsaco.github.io/Oversize/"></a><b>Oversize:</b></a> un E-Commerce ficticio sobre ropa Oversize.</li>
+  <li><a href="https://alfonsaco.github.io/Oversize/"><b>Oversize:</b></a> un E-Commerce ficticio sobre ropa Oversize.</li>
   <li><a href="https://alfonsaco.github.io/Piano/#"><b>Piano:</b></a> un piano virtual al cual puedes jugar si te aburres.</li>
 </ul>
 
