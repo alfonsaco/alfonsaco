@@ -13,7 +13,7 @@
 </p>   
 
 <h2 align="center">🚀 PROYECTOS DESTACADOS</h2>
-- [100DayCSS](https://github.com/alfonsaco/100DaysCSS): reto de 100DayCSS completado al 100%
+- [**100DayCSS:**](https://github.com/alfonsaco/100DaysCSS) reto de 100DayCSS completado al 100%
 
 <h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
