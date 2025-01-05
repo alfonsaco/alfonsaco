@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
 
+<h2 align="center">🚀 PROYECTOS DESTACADOS</h2>
+- [100DayCSS](https://github.com/alfonsaco/100DaysCSS): reto de 100DayCSS completado al 100%
+
 <h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
   <a href="https://skillicons.dev">
