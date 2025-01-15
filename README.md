@@ -22,7 +22,7 @@
 <h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,codepen,java,androidstudio,py,vscode,eclipse,mysql,github,ps,pr,ai,windows,linux&theme=dark&perline=10">
+    <img src="https://skillicons.dev/icons?i=js,html,css,codepen,java,androidstudio,py,vscode,eclipse,mysql,github,git,ps,pr,ai,windows,linux&theme=dark&perline=10">
   </a>
 </p>
 
