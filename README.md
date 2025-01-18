@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    Apasionado de la programación y el diseño
+    Soy una persona apasionada por la programación y el diseño, siempre estoy explorando nuevas formas de aprender y crecer por mi cuenta. Disfruto crear cosas, resolver problemas y desafiarme constantemente para mejorar. Fuera de la tecnología, me encanta hacer ejercicio y mantener un estilo de vida saludable 🌱
   </em> 
   <br>
 </p>
@@ -22,7 +22,7 @@
 <h2 align="center">:computer: LENGUAJES</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,codepen,java,androidstudio,py,vscode,eclipse,mysql,github,git,ps,pr,ai,windows,linux&theme=dark&perline=10">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,sqlite,codepen,androidstudio,vscode,eclipse,github,git,ps,pr,ai,windows,linux&theme=dark&perline=10">
   </a>
 </p>
 
