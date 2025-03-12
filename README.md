@@ -14,10 +14,10 @@
 
 <h2>🚀 PROYECTOS DESTACADOS</h2>
 <ul>
-  <li><a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
-  <li><a href="https://alfonsaco.github.io/Oversize/"><b>Oversize:</b></a> un E-Commerce ficticio sobre ropa Oversize.</li>
-  <li><a href="https://github.com/alfonsaco/Flappy-Parfums"><b>Flappy Parfums:</b></a> juego colaborativo inspirado en el <b>Flappy Bird</b>.</li>
-  <li><a href="https://alfonsaco.github.io/Piano/#"><b>Piano:</b></a> un piano virtual al cual puedes jugar si te aburres.</li>
+  <li>🏆 <a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
+  <li>🌐 <a href="https://alfonsaco.github.io/Oversize/"><b>Oversize:</b></a> un E-Commerce ficticio sobre ropa Oversize.</li>
+  <li>🎮 <a href="https://github.com/alfonsaco/Flappy-Parfums"><b>Flappy Parfums:</b></a> juego colaborativo inspirado en el <b>Flappy Bird</b>.</li>
+  <li>🎮 <a href="https://alfonsaco.github.io/Piano/#"><b>Piano:</b></a> un piano virtual al cual puedes jugar si te aburres.</li>
 </ul>
 
 <h2>:computer: LENGUAJES</h2>
