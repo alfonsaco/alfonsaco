@@ -20,10 +20,10 @@
   <li>🏆 <a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
 </ul>
 
-<h2>:computer: LENGUAJES</h2>
+<h2>:computer: TECNOLOGÍAS</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,sqlite,codepen,androidstudio,vscode,eclipse,github,git,ps,pr,ai,windows,linux&theme=dark&perline=10">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,git,react,nodejs,sqlite,mariadb,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,codepen,virtualbox,uml,ps,pr,ai,youtube,windows,linux&theme=dark&perline=10">
   </a>
 </p>
 
