@@ -32,9 +32,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh&no-bg=false" />  
 </p>
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsaco&layout=compact&langs_count=5)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsaco&layout=donut)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alfonsaco)](https://wakatime.com/@alfonsaco)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="alfonsaco" height="300px"/>
 
 
 <h2>:minidisc: LOGROS</h2>
