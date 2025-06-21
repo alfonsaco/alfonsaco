@@ -32,12 +32,9 @@
    <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh&no-bg=false" />  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="alfonsaco" height="300px"/>
-
-
 <h2>:minidisc: LOGROS</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="alfonsaco" height="400px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=alfonsaco&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
 </p>
