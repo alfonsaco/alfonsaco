@@ -15,6 +15,7 @@
 <h2>🚀 PROYECTOS DESTACADOS</h2>
 <ul>
   <li>🌸 <a href="https://github.com/alfonsaco/CodeZen/"><b>CodeZen:</b></a> aplicación de desarrollo personal para programadores para Android.</li>
+  <li>📜 <a href="https://github.com/alfonsaco/CRM_JavaFX"><b>ConsultoriaCRM:</b></a> aplicación de escritorio. CRM completo para gestionar clientes de una consultoría.</li>
   <li>🎮 <a href="https://github.com/alfonsaco/Flappy-Parfums"><b>Flappy Parfums:</b></a> juego colaborativo inspirado en el <b>Flappy Bird</b>.</li>
   <li>🌐 <a href="https://alfonsaco.github.io/Oversize/"><b>Oversize:</b></a> un E-Commerce ficticio sobre ropa Oversize.</li>
   <li>🏆 <a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
