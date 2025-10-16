@@ -24,7 +24,7 @@
 <h2>:computer: TECNOLOGÍAS</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,git,react,nodejs,sqlite,mariadb,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,codepen,virtualbox,uml,ps,pr,ai,youtube,windows,linux&theme=dark&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,git,react,nodejs,sqlite,mariadb,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,codepen,virtualbox,ps,pr,ai,youtube,windows,linux&theme=dark&perline=10">
   </a>
 </p>
 
