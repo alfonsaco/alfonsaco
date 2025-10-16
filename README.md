@@ -30,7 +30,7 @@
 
 <h2>:trophy: TROFEOS</h2>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh&no-bg=false" />  
+   <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh" />  
 </p>
 
 <h2>:minidisc: LOGROS</h2>
