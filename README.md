@@ -38,3 +38,9 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="195px"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph.svg">
+</picture>
