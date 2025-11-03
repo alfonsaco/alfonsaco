@@ -8,15 +8,12 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alfonsorinconc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enlace LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:alfonso.rincondev@gmail.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><a href="mailto:alfonso.rincondev@gmail.com">
     <img src="https://img.shields.io/badge/alfonso.rincondev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
-</p>   
+</p>
 
 
 <h2>🚀 Proyectos</h2>
