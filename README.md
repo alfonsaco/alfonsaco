@@ -5,8 +5,14 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
 🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsorinconc/)
-  [![alfonso.rincondev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonso.rincondev@gmail.com)
+  <a href="https://www.linkedin.com/in/alfonsorinconc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enlace LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:alfonso.rincondev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
 
