@@ -1,28 +1,17 @@
-# Sobre mí 🧠
-# Bienvenido al GitHub de alfonsaco
 <h3 align="center">🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 💻</h3>
 
-<p align="center">
-  <em>
-    Soy una persona apasionada por la programación y el diseño, siempre estoy explorando nuevas formas de aprender y crecer por mi cuenta. Disfruto crear cosas, resolver problemas y desafiarme constantemente para mejorar. Fuera de la tecnología, me encanta hacer ejercicio y mantener un estilo de vida saludable 🌱
-  </em> 
-  <br>
-</p>
+Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
+Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
+🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alfonsorinconc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enlace LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:alfonso.rincondev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsorinconc/)
+  [![alfonso.rincondev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonso.rincondev@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
 
 
-<h2>🚀 PROYECTOS DESTACADOS</h2>
+<h2>🚀 Proyectos</h2>
 <ul>
   <li>🌸 <a href="https://github.com/alfonsaco/CodeZen/"><b>CodeZen:</b></a> aplicación de desarrollo personal para programadores para Android.</li>
   <li>📜 <a href="https://github.com/alfonsaco/ConsultoriaCRM"><b>ConsultoriaCRM:</b></a> aplicación de escritorio. CRM completo para gestionar clientes de una consultoría.</li>
@@ -32,15 +21,15 @@
 </ul>
 
   
-<h2>:computer: TECNOLOGÍAS</h2>
+<h2>:computer: Tecnologías</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,git,react,vue,nodejs,sqlite,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,codepen,ps,pr,ai&theme=dark&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,git,react,vue,nodejs,sqlite,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,ps,pr,ai&theme=dark&perline=10">
   </a>
 </p>
 
 
-<h2>📊 ESTADÍSTICAS</h2>
+<h2>📊 Estadísticas</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   &nbsp;&nbsp;
