@@ -1,5 +1,7 @@
 <h3 align="center">🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 💻</h3>
 
+<hr>
+
 Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
 Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
 🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
@@ -10,7 +12,7 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
   </a>
   &nbsp;
   <a href="mailto:alfonso.rincondev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/alfonso.rincondev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
