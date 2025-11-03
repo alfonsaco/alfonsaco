@@ -1,6 +1,6 @@
 <h3 align="center">🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 💻</h3>
 
-<hr>
+<hr height="1px">
 
 Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
 Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
