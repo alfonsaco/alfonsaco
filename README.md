@@ -1,6 +1,5 @@
-<h3 align="center">🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 💻</h3>
+#🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 🌐
 
-<hr height="1px">
 
 Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
 Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
@@ -9,9 +8,12 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
 <p align="center">
   <a href="https://www.linkedin.com/in/alfonsorinconc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
-  </a><a href="mailto:alfonso.rincondev@gmail.com">
-    <img src="https://img.shields.io/badge/alfonso.rincondev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none;" />
   </a>
+  &nbsp;
+  <a href="mailto:alfonso.rincondev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none;" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge" style="border:none;" />
 </p>
 
@@ -28,7 +30,7 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
 <h2>:computer: Tecnologías</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,git,react,vue,nodejs,sqlite,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,ps,pr,ai&theme=dark&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,git,react,vue,nodejs,sqlite,mysql,androidstudio,android,firebase,vscode,idea,eclipse,github,ps,pr,ai&theme=dark&perline=14">
   </a>
 </p>
 
@@ -38,8 +40,6 @@ Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="195px"/>
-    <br>&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfonsaco&theme=xcode" alt="alfonsaco" height="195px"/>
 </p>
 
 
