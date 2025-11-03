@@ -1,9 +1,9 @@
-#🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 🌐
+# 🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 🌐
 
 
-Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
-Fuera del código, disfruto el ejercicio y mantenerme activo 🌱
-🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 💻 Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
+- 🏋️‍♂️ Fuera del código, disfruto el ejercicio y mantenerme activo.
+- 🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alfonsorinconc/">
