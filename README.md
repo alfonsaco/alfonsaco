@@ -21,6 +21,8 @@
   <li>🏆 <a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
 </ul>
 
+  <br>
+  
 <h2>:computer: TECNOLOGÍAS</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +30,9 @@
   </a>
 </p>
 
-<h2>📊 ESTADÍSTICA</h2>
+  <br>
+
+<h2>📊 ESTADÍSTICAS</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   &nbsp;
