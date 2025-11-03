@@ -1,4 +1,4 @@
-# 🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 🌐
+## 🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 🌐
 
 
 - 💻 Apasionado por la programación y el diseño. Me encanta crear, aprender y mejorar cada día.  
@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
   </a>
   &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge" style="border:none;" />
+  &nbsp;
   <a href="mailto:alfonso.rincondev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none;" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge" style="border:none;" />
 </p>
 
 <h2>🚀 Proyectos</h2>
