@@ -28,14 +28,8 @@
   </a>
 </p>
 
-<h2>:trophy: TROFEOS</h2>
+<h2>📊 ESTADÍSTICA</h2>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=alfonsaco&theme=juicyfresh" />  
-</p>
-
-<h2>:minidisc: LOGROS</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonsaco&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="210px"/>
 </p>
