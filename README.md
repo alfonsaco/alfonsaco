@@ -32,5 +32,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="195px"/>
 </p>
