@@ -10,8 +10,12 @@
 </p>
 
 <p align="center">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a href="https://www.linkedin.com/in/alfonsorinconc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enlace LinkedIn" />
+  </a>
+  <a href="mailto:alfonso.rincondev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
 
@@ -37,8 +41,9 @@
 <h2>📊 ESTADÍSTICAS</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="195px"/>
+    <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfonsaco&theme=xcode" alt="alfonsaco" height="195px"/>
 </p>
 
