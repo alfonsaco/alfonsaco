@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alfonso </h1>
+# Sobre mí 🧠
+# Bienvenido al GitHub de alfonsaco
 <h3 align="center">🌐 Programador Full-Stack | Desarrollador de Aplicaciones Multiplataforma 💻</h3>
 
 <p align="center">
@@ -9,8 +10,11 @@
 </p>
 
 <p align="center">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge"/>
 </p>   
+
 
 <h2>🚀 PROYECTOS DESTACADOS</h2>
 <ul>
@@ -21,7 +25,6 @@
   <li>🏆 <a href="https://github.com/alfonsaco/100DaysCSS/" target="_blank"><b>100DayCSS:</b></a> reto de 100DayCSS completado al 100%.</li>
 </ul>
 
-  <br>
   
 <h2>:computer: TECNOLOGÍAS</h2>
 <p align="center">
@@ -30,17 +33,13 @@
   </a>
 </p>
 
-  <br>
 
 <h2>📊 ESTADÍSTICAS</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsaco&theme=dark" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsaco&langs_count=15&layout=compact&show_icons=true&locale=en&theme=dark" alt="alfonsaco" height="195px"/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alfonsaco)](https://github.com/alfonsaco/github-readme-activity-graph)
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfonsaco/alfonsaco/output/pacman-contribution-graph.svg">
-</picture>
+
