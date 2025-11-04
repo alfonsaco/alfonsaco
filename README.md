@@ -6,10 +6,10 @@
 - 🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alfonsorinconc/">
+  <a href="https://www.linkedin.com/in/alfonsorinconc/" style="none">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge" style="border:none;" />
   &nbsp;
   <a href="mailto:alfonso.rincondev@gmail.com">
