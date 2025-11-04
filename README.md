@@ -6,7 +6,7 @@
 - 🎓 Técnico en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alfonsorinconc/" style="none">
+  <a href="https://www.linkedin.com/in/alfonsorinconc/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
   </a>
   &nbsp;
