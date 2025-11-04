@@ -15,6 +15,9 @@
   <a href="mailto:alfonso.rincondev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none;" />
   </a>
+  <a href="https://portafolio-alfonsaco.vercel.app/">
+    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Botón portafolio" />
+  </a>
 </p>
 
 <h2>🚀 Proyectos</h2>
