@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/alfonsorinconc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=alfonsaco&color=red&style=for-the-badge" style="border:none;" />
   &nbsp;
   <a href="mailto:alfonso.rincondev@gmail.com">
