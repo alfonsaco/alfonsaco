@@ -19,17 +19,8 @@
   <a href="https://portafolio-alfonsaco.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Botón portafolio" />
   </a>
-
-  <a href="https://www.linkedin.com/in/alfonsorinconc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-<a href="https://www.linkedin.com/in/alfonsorinconc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-<a href="https://www.linkedin.com/in/alfonsorinconc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsorinconc/) 
 
 <h2>🚀 Proyectos</h2>
 <ul>
