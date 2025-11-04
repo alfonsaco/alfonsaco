@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="https://portafolio-alfonsaco.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Botón portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-47BA87?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Botón portafolio" />
   </a>
 </p>
 
