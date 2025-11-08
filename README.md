@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none;" />
   </a>
   &nbsp;
-  <a href="https://portafolio-alfonsaco.vercel.app/">
+  <a href="https://alfonsorincon.dev/">
     <img src="https://img.shields.io/badge/Portafolio-47BA87?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Botón portafolio" />
   </a>
 </p>
